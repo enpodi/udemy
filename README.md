@@ -2,6 +2,8 @@
  https://www.udemy.com/course/draft/2291467/learn/lecture/15196456?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cintroduction_asset%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview
 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud
 https://www.udemy.com/course/kubernetes-microservices/learn/lecture/11157302?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cintroduction_asset%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview
+Single Page App Development with JavaScript: 2-in-1
+https://www.udemy.com/course/single-page-app-development-with-javascript-2-in-1/learn/lecture/11776224?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cintroduction_asset%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview
 REST API Testing(Automation) from scratch-Rest Assured java
 Linux Shell Scripting: A Project-Based Approach to Learning
 Learning Data Structures in JavaScript from Scratch
