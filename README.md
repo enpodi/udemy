@@ -1,4 +1,26 @@
- 500+ Software programming practices for Absolute beginners
+ 
+
+
+Building a Reactive App with Angular and Spring Boot 2
+https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2/how-you-are-using-spring-webflux?collection=urn%3Ali%3AlearningCollection%3A6637173566599237632
+
+https://www.linkedin.com/learning/java-memory-management/exercise-walkthrough-2
+
+https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices/restful-api-testing-with-junit
+
+
+Testing Spring Boot: Beginner to Guru
+https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/learn/lecture/12154772#overview
+
+Apache Kafka With Java Spring Boot-Theory & Hands On Coding
+https://www.udemy.com/course/apache-kafka-with-java-spring-boot-theory-hands-on-coding/learn/lecture/14961620#overview
+
+
+
+
+
+
+500+ Software programming practices for Absolute beginners
  https://www.udemy.com/course/draft/2291467/learn/lecture/15196456?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cintroduction_asset%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview
 Kubernetes Hands-On - Deploy Microservices to the AWS Cloud
 https://www.udemy.com/course/kubernetes-microservices/learn/lecture/11157302?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cintroduction_asset%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview
