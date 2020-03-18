@@ -16,7 +16,12 @@ Apache Kafka With Java Spring Boot-Theory & Hands On Coding
 https://www.udemy.com/course/apache-kafka-with-java-spring-boot-theory-hands-on-coding/learn/lecture/14961620#overview
 
 
+https://www.pluralsight.com/courses/context-dependency-injection-1-1
 
+https://www.pluralsight.com/courses/mutation-testing-java-pitest
+
+some code coverage
+https://app.pluralsight.com/library/courses/junit-5-fundamentals/table-of-contents
 
 
 
