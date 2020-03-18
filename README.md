@@ -47,8 +47,18 @@ https://app.pluralsight.com/library/courses/junit-5-fundamentals/table-of-conten
 spring boot components
 VIDEO - Professional Spring Boot 2
 https://learning.oreilly.com/videos/professional-spring-boot/9781788998697
-Spring Boot Tips, Tricks, and Techniques  ************
+VIDEO Spring Boot Tips, Tricks, and Techniques  ************
 https://learning.oreilly.com/videos/spring-boot-tips/9781838829469
+
+https://learning.oreilly.com/library/view/how-to-attack/9780128027325/
+https://learning.oreilly.com/api/v1/dashboard/continue/0672324547
+https://learning.oreilly.com/library/view/http2-in-action/9781617295164/
+https://learning.oreilly.com/library/view/http-protocols/9781492030478/
+https://learning.oreilly.com/api/v1/dashboard/continue/1565925092
+https://learning.oreilly.com/library/view/learning-http2/9781491962435/
+https://learning.oreilly.com/library/view/hands-on-restful-web/9781838643577
+https://learning.oreilly.com/library/view/refactoring-javascript/9781491964910
+https://learning.oreilly.com/videos/ssl-complete-guide/9781839211508
 
 
 
