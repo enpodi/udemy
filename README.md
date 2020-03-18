@@ -60,7 +60,9 @@ https://learning.oreilly.com/library/view/hands-on-restful-web/9781838643577
 https://learning.oreilly.com/library/view/refactoring-javascript/9781491964910
 https://learning.oreilly.com/videos/ssl-complete-guide/9781839211508
 
-
+post & delete requests
+React Front to Back
+https://learning.oreilly.com/videos/react-front-to/9781838645274/9781838645274-video7_3
 
 
 500+ Software programming practices for Absolute beginners
