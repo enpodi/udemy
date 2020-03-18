@@ -2,10 +2,27 @@
 
 
 Building a Reactive App with Angular and Spring Boot 2
+Unit Testing with @SpringBootTest
 https://www.linkedin.com/learning/building-a-reactive-app-with-angular-and-spring-boot-2/how-you-are-using-spring-webflux?collection=urn%3Ali%3AlearningCollection%3A6637173566599237632
+
+test REST
+RESTful API testing with JUnit
+https://www.linkedin.com/learning/extending-securing-and-dockerizing-spring-boot-microservices
+API Testing and Validation
+https://www.linkedin.com/learning/api-testing-and-validation/what-you-should-know
+Write integration tests for @Controller
+https://www.linkedin.com/learning/spring-test-driven-development-with-junit
+
 
 Mastering Microservices with Java
 https://www.linkedin.com/learning/mastering-microservices-with-java/the-course-overview
+
+Spring Boot 2.0 Essential Training - Spring boot components
+https://www.linkedin.com/learning/spring-boot-2-0-essential-training/welcome-to-spring-boot
+
+Spring Boot 2.0 Essential Training - SpringBoot Relational DB pivot to MongoDB
+paging and sorting with DTOs
+https://www.linkedin.com/learning/creating-your-first-spring-boot-microservice/build-a-microservice-with-spring-boot
 
 https://www.linkedin.com/learning/java-memory-management/exercise-walkthrough-2
 
