@@ -44,6 +44,14 @@ some code coverage
 https://app.pluralsight.com/library/courses/junit-5-fundamentals/table-of-contents
 
 
+spring boot components
+VIDEO - Professional Spring Boot 2
+https://learning.oreilly.com/videos/professional-spring-boot/9781788998697
+Spring Boot Tips, Tricks, and Techniques  ************
+https://learning.oreilly.com/videos/spring-boot-tips/9781838829469
+
+
+
 
 500+ Software programming practices for Absolute beginners
  https://www.udemy.com/course/draft/2291467/learn/lecture/15196456?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cintroduction_asset%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview
